@@ -5,4 +5,4 @@ git add .
 git commit -m "$COMMIT_MESSAGE"
 
 # Push به مخزن ریموت
-git push origin master
+git push
