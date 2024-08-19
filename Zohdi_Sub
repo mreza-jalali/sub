@@ -16,7 +16,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkdlLUZhMS1NYXN0ZXIiLA0KICAiYWRkIjogIm51
 #EndGe-Fa1.json
 
 #Ge-Nu2-IR-CASCADE 9191
-vless://09ce7fec-0d1d-417f-92ff-f89721699909@v2asiatech.asdc.ir:9191?encryption=none&security=tls&alpn=http%2F1.1&type=ws&path=%2F1#Ge-Nu2-IR-CASCADE
+#vless://09ce7fec-0d1d-417f-92ff-f89721699909@v2asiatech.asdc.ir:9191?encryption=none&security=tls&alpn=http%2F1.1&type=ws&path=%2F1#Ge-Nu2-IR-CASCADE
 #EndGe-Nu2-IR-CASCADE 9191.json
 
 
