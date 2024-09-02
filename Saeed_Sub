@@ -24,7 +24,7 @@ vless://44003e4b-dcf5-48a8-b0bb-cf7b67a23a9c@185.120.222.34:443?encryption=none&
 #EndTunv6.json
 
 ##Ge-Nu2-IR-CASCADE 9191
-vless://09ce7fec-0d1d-417f-92ff-f89721699908@v2asiatech.asdc.ir:9191?type=ws&path=%2F1&host=&security=tls&fp=&alpn=http%2F1.1#Ge-Nu1-IR-CASCADE
+#vless://09ce7fec-0d1d-417f-92ff-f89721699908@v2asiatech.asdc.ir:9191?type=ws&path=%2F1&host=&security=tls&fp=&alpn=http%2F1.1#Ge-Nu1-IR-CASCADE
 #EndGe-Nu2-IR-CASCADE 9191.json
 
 
