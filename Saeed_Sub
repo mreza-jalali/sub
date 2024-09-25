@@ -19,7 +19,7 @@ EndUSA-cdn.json
 #EndSSH-Tunnel.json
 
 ##Tunv6.json
-vless://44003e4b-dcf5-48a8-b0bb-cf7b67a23a9c@185.120.222.34:443?encryption=none&security=none&type=tcp&headerType=none#7xpwztq9
+vless://44003e4b-dcf5-48a8-b0bb-cf7b67a23a9c@185.120.222.34:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AEFinland-SSHTunel
 #EndTunv6.json
 
 ##Ge-Fa1.json
