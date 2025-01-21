@@ -6,8 +6,8 @@ vless://08ce7fec-0d1d-417f-92ff-f89721699908@v2.asdc.ir:9191?type=ws&path=%2F1&h
 #2030-FS2
 vless://e04c0fc7-b3e9-4da8-9a5d-eac838c80c82@fs2.asdc.ir:2030?encryption=none&security=none&type=tcp&headerType=none#2030-FS2
 
-#2090-NU1
-vless://c40e4ff8-d19b-461d-9c81-dfe74ebc71bd@nu1.asdc.ir:2090?encryption=none&security=none&type=tcp&headerType=none#2090-NU1
+#2070-USA
+vless://c40e4ff8-d19b-461d-9c81-dfe74ebc71bd@hb1.asdc.ir:2070?encryption=none&security=none&type=tcp&headerType=none#USA-2070
 
 #vmess://eyJhZGQiOiJmczFfY2RuLmFzZGMuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZzMV9jZG4uYXNkYy5pciIsImlkIjoiOGMyOGYzYmYtNWZjZC00MGJiLWEzY2QtMTAyYzY2ZTMzMDc0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLzMzMTgzIiwicG9ydCI6IjQ0MyIsInBzIjoiZnMxLU1hc3RlciIsInNjeSI6ImF1dG8iLCJzbmkiOiJmczFfY2RuLmFzZGMuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
