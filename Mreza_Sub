@@ -1,4 +1,8 @@
 
+##fs-5151
+vless://ee73f4d9-cb06-42ec-8f1b-d7c79713234f@v1.asdc.ir:5151?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V2-5151
+
+
 vless://e04c0fc7-b3e9-4da8-9a5d-eac838c80c82@fs2.asdc.ir:2030?security=&encryption=none&headerType=none&type=tcp#2030-70ufelmk
 
 vmess://eyJhZGQiOiJmczJfY2RuLmFzZGMuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZzMl9jZG4uYXNkYy5pciIsImlkIjoiZDBiYWE4NjItYjVmNC00MzE1LTlmMWYtYTk0NTNiNDE2YmIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLzE2MDgxIiwicG9ydCI6IjQ0MyIsInBzIjoiZnMyLU1hc3RlciIsInNjeSI6ImF1dG8iLCJzbmkiOiJmczJfY2RuLmFzZGMuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
