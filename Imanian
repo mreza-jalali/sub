@@ -1,6 +1,10 @@
 
+##fs-5151
+vless://ee73f4d9-cb06-42ec-8f1b-d7c79713234f@v1.asdc.ir:5151?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V2-5151
+
+
 ##Ge-Nu2-IR-CASCADE 9191
-vless://08ce7fec-0d1d-417f-92ff-f89721699908@v2.asdc.ir:9191?type=ws&path=%2F1&host=&security=tls&fp=&alpn=http%2F1.1#V2-9191-DreamFarm2
+#vless://08ce7fec-0d1d-417f-92ff-f89721699908@v2.asdc.ir:9191?type=ws&path=%2F1&host=&security=tls&fp=&alpn=http%2F1.1#V2-9191-DreamFarm2
 #EndGe-Nu2-IR-CASCADE 9191.json
 
 #2070-USA
