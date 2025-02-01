@@ -4,13 +4,7 @@ vless://e04c0fc7-b3e9-4da8-9a5d-eac838c80c82@fs2.asdc.ir:2030?security=&encrypti
 vmess://eyJhZGQiOiJmczJfY2RuLmFzZGMuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZzMl9jZG4uYXNkYy5pciIsImlkIjoiZDBiYWE4NjItYjVmNC00MzE1LTlmMWYtYTk0NTNiNDE2YmIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLzE2MDgxIiwicG9ydCI6IjQ0MyIsInBzIjoiZnMyLU1hc3RlciIsInNjeSI6ImF1dG8iLCJzbmkiOiJmczJfY2RuLmFzZGMuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 ##Ge-Nu2-IR-CASCADE 9191
-vless://08ce7fec-0d1d-417f-92ff-f89721699909@v2.asdc.ir:9191?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V2-9191-DreamFarm2
-#EndGe-Nu2-IR-CASCADE 9191.json
-
-
-##Ge-Fa1.json
-#vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkdlLUZhMS1NYXN0ZXIiLA0KICAiYWRkIjogIm51Y2RuLm5vZWx3b2xmLmxvbCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI4YzI4ZjNiZi01ZmNkLTQwYmItYTNjZC0xMDJjNjZlMzMwNzQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIm51Y2RuLm5vZWx3b2xmLmxvbCIsDQogICJwYXRoIjogIi93cy8zMzE4MyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJudWNkbi5ub2Vsd29sZi5sb2wiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-#EndGe-Fa1.json
+vless://08ce7fec-0d1d-417f-92ff-f89721699909@v2.asdc.ir:9191?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V2-9191
 
 ##Tunv6.json
 #vless://44003e4b-dcf5-48a8-b0bb-cf7b67a23a9c@185.120.222.34:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AEFinland-SSHTunel
