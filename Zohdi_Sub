@@ -2,6 +2,11 @@
 ##fs-5151
 vless://ee73f4d9-cb06-42ec-8f1b-d7c79713235f@v1.asdc.ir:5151?encryption=none&security=tls&alpn=http%2F1.1&type=ws&path=%2F1#V2-5151-GE
 
+##FS2-443.json
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImZzMi1NYXN0ZXIiLA0KICAiYWRkIjogImZzMl9jZG4uYXNkYy5pciIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkMGJhYTg2Mi1iNWY0LTQzMTUtOWYxZi1hOTQ1M2I0MTZiNzciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImZzMl9jZG4uYXNkYy5pciIsDQogICJwYXRoIjogIi93cy8xNjA4MSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJmczJfY2RuLmFzZGMuaXIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+#EndFS2-443.json
+
+
 ##Ge-Nu2-IR-CASCADE 9191
 #vless://08ce7fec-0d1d-417f-92ff-f89721699908@v2.asdc.ir:9191?type=ws&path=%2F1&host=&security=tls&fp=&alpn=http%2F1.1#V2-9191-DreamFarm2
 #EndGe-Nu2-IR-CASCADE 9191.json
