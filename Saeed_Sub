@@ -1,4 +1,7 @@
 
+##V2-9191
+vless://09ce7fec-0d1d-417f-92ff-f89721699909@v2.asdc.ir:9191?encryption=none&security=tls&alpn=http%2F1.1&type=ws&path=%2F1#V2-9191
+
 #vless://09ce7fec-0d1d-417f-92ff-f89721699909@v2.asdc.ir:9191?path=/1&security=tls&alpn=http/1.1&encryption=none&type=ws#V2-9191-DreamFarm2
 
 ##fs-5151
