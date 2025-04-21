@@ -1,17 +1,18 @@
 
-##V2-9191
-#vless://09ce7fec-0d1d-417f-92ff-f89721699909@v2.asdc.ir:9191?encryption=none&security=tls&alpn=http%2F1.1&type=ws&path=%2F1#V2-9191
+#OV-8181
+#vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk9WLTgxODEiLA0KICAiYWRkIjogIm92LmFzZGMuaXIiLA0KICAicG9ydCI6ICI4MTgxIiwNCiAgImlkIjogIjg0Mjg4YzkwLTYwZWItNGY3Ni1hNzk0LTQwMDg3OWRlOTg4NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLzEiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiaHR0cC8xLjEiLA0KICAiZnAiOiAiIg0KfQ==
 
-#vless://09ce7fec-0d1d-417f-92ff-f89721699909@v2.asdc.ir:9191?path=/1&security=tls&alpn=http/1.1&encryption=none&type=ws#V2-9191-DreamFarm2
+vless://09ce7fec-0d1d-417f-92ff-f89721699909@v2.asdc.ir:9191?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V2-9191-GE
 
 ##fs-5151
-#vless://9e374ef7-34d7-44db-bd70-d24ca4f71ad1@v1.asdc.ir:5151?encryption=none&security=tls&alpn=http%2F1.1&type=ws&path=%2F1#V2-5151-GE
+vless://9e374ef7-34d7-44db-bd70-d24ca4f71ad1@v1.asdc.ir:5151?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V2-5151-USA
 
+vmess://eyJhZGQiOiJoYjFfY2RuLmFzZGMuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhiMV9jZG4uYXNkYy5pciIsImlkIjoiN2MwNzcxZWUtZTFjZi00NDg4LTk3YjYtMDY4ZGQ4YjI0NTY2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLzE2MDgxIiwicG9ydCI6IjQ0MyIsInBzIjoiSEIxLU1hc3RlciIsInNjeSI6ImF1dG8iLCJzbmkiOiJoYjFfY2RuLmFzZGMuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 ##2030-Direct.json
-#vless://e04c0fc7-b3e9-4da8-9a5d-eac838c80c55@fs2.asdc.ir:2030?type=tcp&security=none#2030-Direct-GE
+vless://e04c0fc7-b3e9-4da8-9a5d-eac838c80c55@fs2.asdc.ir:2030?type=tcp&security=none#2030-Direct-GE
 #End2030-Direct.json
 
 ##FS2-443.json
-#vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImZzMi1NYXN0ZXIiLA0KICAiYWRkIjogImZzMl9jZG4uYXNkYy5pciIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkMGJhYTg2Mi1iNWY0LTQzMTUtOWYxZi1hOTQ1M2I0MTZiNzciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImZzMl9jZG4uYXNkYy5pciIsDQogICJwYXRoIjogIi93cy8xNjA4MSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJmczJfY2RuLmFzZGMuaXIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImZzMi1NYXN0ZXIiLA0KICAiYWRkIjogImZzMl9jZG4uYXNkYy5pciIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkMGJhYTg2Mi1iNWY0LTQzMTUtOWYxZi1hOTQ1M2I0MTZiNzciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImZzMl9jZG4uYXNkYy5pciIsDQogICJwYXRoIjogIi93cy8xNjA4MSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJmczJfY2RuLmFzZGMuaXIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 #EndFS2-443.json
