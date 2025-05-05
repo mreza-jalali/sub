@@ -1,4 +1,9 @@
 
+
+##2030-Direct.json
+vless://e04c0fc7-b3e9-4da8-9a5d-eac838c80c55@fs2.asdc.ir:2030?type=tcp&security=none#2030-Direct-GE
+#End2030-Direct.json
+
 ##V2-9191
 vless://09ce7fec-0d1d-417f-92ff-f89721699909@v2.asdc.ir:9191?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V2-9191-GE
 
