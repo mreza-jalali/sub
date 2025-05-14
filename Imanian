@@ -1,8 +1,8 @@
 
-vless://09ce7fec-0d1d-417f-92ff-f89721699909@v2.asdc.ir:9191?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V2-9191-GE
+#vless://09ce7fec-0d1d-417f-92ff-f89721699909@v2.asdc.ir:9191?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V2-9191-GE
 
 ##fs-5151
-#vless://9e374ef7-34d7-44db-bd70-d24ca4f71ad1@v1.asdc.ir:5151?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V2-5151-USA
+vless://9e374ef7-34d7-44db-bd70-d24ca4f71ad1@v1.asdc.ir:5151?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V2-5151-USA
 
 
 ##2030-Direct.json
