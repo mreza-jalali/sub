@@ -1,7 +1,7 @@
 
 vmess://eyJhZGQiOiJvdi5hc2RjLmlyIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmZhNjJlZmEtMDQ0Ny00NjVjLWIyMTgtNjU0NTRmZTQzZDMyIiwibmV0Ijoid3MiLCJwYXRoIjoiLzEiLCJwb3J0IjoiNzE3MSIsInBzIjoiT1YtNzE3MS1EcmVhbUZhcm0yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vless://09ce7fec-0d1d-417f-92ff-f89721699909@v2.asdc.ir:9191?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V2-9191-GE
+vmess://eyJhZGQiOiJ2Mi5hc2RjLmlyIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMjQ1Y2U5NDktOTRmMy00ZjU2LTkwMzgtMWI1YmYwZmE2MGViIiwibmV0Ijoid3MiLCJwYXRoIjoiLzEiLCJwb3J0IjoiOTE5MSIsInBzIjoiVk0tOTE5MS1rd2t3Y3EwNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 ##fs-5151
 #vless://9e374ef7-34d7-44db-bd70-d24ca4f71ad1@v1.asdc.ir:5151?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V2-5151-USA
