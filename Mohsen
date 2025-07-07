@@ -1,13 +1,15 @@
 
 vless://97cdc738-06e1-4beb-820c-adec61d15c22@smartvpn.asdc.ir:9909?path=%2F&security=none&encryption=none&type=ws#Smart-LoadBlancing
 
-vless://18881526-4ad3-448b-a0ba-7606b2bd4740@v1.asdc.ir:5151?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#R-5151-
+#vless://18881526-4ad3-448b-a0ba-7606b2bd4740@v1.asdc.ir:5151?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#R-5151-
 
-vless://732a09f8-02a7-4ea6-b188-66d12e84988a@smartvpn.asdc.ir:9909?path=%2F&security=&encryption=none&type=ws#Smart-LoadBlancing
+#vless://732a09f8-02a7-4ea6-b188-66d12e84988a@smartvpn.asdc.ir:9909?path=%2F&security=&encryption=none&type=ws#Smart-LoadBlancing
 
 vless://10f6d8d0-f492-4c6f-a3de-1c58aeb0af02@arvan.bcbd.ir:2030?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=arvan.bcbd.ir&fp=chrome&type=ws#2030-WS
 
-vless://0194b325-364b-4cb0-a713-b1855977bf78@rira.bcbd.ir:8080?path=%2F&security=&encryption=none&type=ws#ICMP-Rira
+vless://f40e30ad-eaea-42b3-aee1-49e00a18b694@ge1.bcbd.ir:48088?security=&encryption=none&headerType=none&type=tcp#R-Direct
+
+#vless://0194b325-364b-4cb0-a713-b1855977bf78@rira.bcbd.ir:8080?path=%2F&security=&encryption=none&type=ws#ICMP-Rira
 
 #vless://5086a0fd-4247-409b-81d8-23fb5b73c8e2@v1.asdc.ir:5151?path=%2F1&security=tls&alpn=http%2F1.1&encryption=none&type=ws#V1-5151
 
