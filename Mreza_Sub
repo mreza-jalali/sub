@@ -1,5 +1,6 @@
 
-vless://97cdc738-06e1-4beb-820c-adec61d15c22@smartvpn.asdc.ir:9909?path=%2F&security=&encryption=none&type=ws#Smart-Rira
+
+vless://7d8eb774-f8bc-482d-9800-030388b658f0@smartvpn.asdc.ir:9909?path=%2F&security=&encryption=none&type=ws#Smart-LoadBlancing
 
 #vless://10f6d8d0-f492-4c6f-a3de-1c58aeb0af02@arvan.bcbd.ir:2030?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=arvan.bcbd.ir&fp=chrome&type=ws#2030-WS
 
