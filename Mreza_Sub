@@ -5,5 +5,5 @@ vless://e114f1eb-f114-4d7f-b26e-ac094c0c9e2c@v1.asdc.ir:5151?path=%2F1&security=
 
 vless://cbd82a42-2204-4582-a909-72a4cc5b0480@v2.asdc.ir:8181?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#R2-8181-SmartVpn
 
-vmess://eyJhZGQiOiJ2Mi5hc2RjLmlyIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiYjIwNTMwYTUtMGZlMS00NmU0LTg3NzctZDQ0OTI3ZTgxYjExIiwibmV0Ijoid3MiLCJwYXRoIjoiLzEiLCJwb3J0IjoiOTE5MSIsInBzIjoiOTEtU21hcnRWcG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://1a08b6cc-b151-4523-ad3c-82b8437da23d@nu1.asdc.ir:2040?path=%2F&security=&encryption=none&type=ws#NU1-WC-DFS1
 
