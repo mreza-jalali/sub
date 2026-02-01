@@ -1,6 +1,4 @@
 
 vless://e114f1eb-f114-4d7f-b26e-ac094c0c9e2c@v1.asdc.ir:5151?path=%2F1&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#SmartVpn
 
-vless://264a07e4-cfe2-4cdd-abe9-fb3fb299f7df@ov.arssin.com:7171?path=%2F1&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#Fs1-SmartVpn
-
 vless://aa64f861-dde7-4f7b-9173-b6eeb0bb2be4@v2.asdc.ir:8181?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#V2-SmartVpn
