@@ -1,7 +1,6 @@
 
-vless://7daf480b-efa5-49b9-9b18-948557e6a77d@us1.asdc.ir:2040?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#Ge-Direct%F0%9F%87%A9%F0%9F%87%AA
+vless://29c4229a-14fb-4c25-ad56-9bcb3834456a@cloudiran.arssin.ir:1040?path=%2F&security=none&encryption=none&type=ws#Ch-tunnel
 
 vless://6f05f848-dacc-44fd-8d5d-eb1f9b03fdb8@2.188.212.169:9909?path=%2F&security=none&encryption=none&type=ws#Emergency%F0%9F%87%A9%F0%9F%87%AA
 
 vless://f44b420f-f1bc-4b7c-bf54-eb0c281f6f1f@2.188.212.169:9908?path=%2F&security=none&encryption=none&type=ws#Emergency2%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%A9%F0%9F%87%AA
-%
