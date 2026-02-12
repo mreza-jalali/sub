@@ -1,8 +1,6 @@
 
 vless://264a07e4-cfe2-4cdd-abe9-fb3fb299f7df@ov.arssin.com:7171?path=%2F1&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#7171-SmartVpn
 
-vless://7daf480b-efa5-49b9-9b18-948557e6a77d@us1.asdc.ir:2040?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#Ge-Direct%F0%9F%87%A9%F0%9F%87%AA
-
 vless://6f05f848-dacc-44fd-8d5d-eb1f9b03fdb8@2.188.212.169:9909?path=%2F&security=none&encryption=none&type=ws#Emergency%F0%9F%87%A9%F0%9F%87%AA
 
 vless://f44b420f-f1bc-4b7c-bf54-eb0c281f6f1f@2.188.212.169:9908?path=%2F&security=none&encryption=none&type=ws#Emergency2%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%A9%F0%9F%87%AA
