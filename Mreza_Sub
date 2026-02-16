@@ -1,12 +1,8 @@
 
 vless://264a07e4-cfe2-4cdd-abe9-fb3fb299f7df@ov.asdc.ir:7171?security=&encryption=none&headerType=none&type=tcp#7171-USA%28Ashborn%29%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%BA%F0%9F%87%B8
 
-vless://6f05f848-dacc-44fd-8d5d-eb1f9b03fdb8@2.188.212.169:9909?path=%2F&security=&encryption=none&type=ws#Emergency%F0%9F%87%A9%F0%9F%87%AA
-
 vless://e71e099e-7c97-4367-9cb2-81ea968b647b@vp.vaslima.de:1194?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Emergency-FR
 
 vless://e114f1eb-f114-4d7f-b26e-ac094c0c9e2c@v1.asdc.ir:5151?path=%2F1&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#5151-USA%F0%9F%87%BA%F0%9F%87%B8
 
 vless://aa64f861-dde7-4f7b-9173-b6eeb0bb2be4@v2.asdc.ir:8181?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#8181-Germany%F0%9F%87%A9%F0%9F%87%AA
-
-vless://c57e6cdd-2054-46e8-b67b-6c6f3a354237@v1.asdc.ir:1050?security=&encryption=none&headerType=none&type=tcp#SSH-Tunnel
