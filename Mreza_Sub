@@ -1,6 +1,4 @@
 
-vless://aaf7d791-c8fa-48ab-b27d-9af108553359@ov.asdc.ir:2525?security=&encryption=none&headerType=none&type=tcp#Paqet-7171%28US6%29
-
 vless://560b5a0c-d830-43c5-a518-19555400639c@v2.asdc.ir:8181?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#8181-US5
 
 vless://264a07e4-cfe2-4cdd-abe9-fb3fb299f8df@v3.asdc.ir:7171?security=none&encryption=none&headerType=none&type=tcp#7171-GE-%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%A9%F0%9F%87%AA
